@@ -33,7 +33,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     training_dir = args.data_dir
-    train_data = scipy.sparse.load_npz(os.path.join(training_dir, "artist_matrx.npz"))
+    train_data = scipy.sparse.load_npz(os.path.join(training_dir, "artist_user_mtrx.npz"))
     train_data = np.array(train_data.todense())
 
     model = NearestNeighbors(n_neighbors=args.n_neighbors,
