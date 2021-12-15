@@ -4,7 +4,7 @@ This repo contains code related to my final capstone project for the Udacity Mac
 
 A complete summary of this project can be found in the file summary.pdf in the resources directory.
 
-The same summary is available in a more readable blog format here: [WordPress Blog](https://wordpress.com/post/connortphoenix.wordpress.com/340)
+The same summary is available in a more readable blog format here: [WordPress Blog](https://connortphoenix.wordpress.com/2021/12/14/simple-recommendation-sklearn-knn-using-aws-sagemaker-custom-algorithm/)
 
 #### Dataingest.ipynb
 Data ingestion script. Pulls and integrates raw datasources from source URL.
@@ -21,4 +21,4 @@ Location for other raw and processed datasources
 #### RESOURCES directory
 - paper_Budiman_Giri: Academic paper describing similiar approach
 - proposal.pdf: Proposal Document
-- summary.pdf: Project summary (pdf version of [WordPress Blog](https://wordpress.com/post/connortphoenix.wordpress.com/340))
+- summary.pdf: Project summary (pdf version of [WordPress Blog](https://connortphoenix.wordpress.com/2021/12/14/simple-recommendation-sklearn-knn-using-aws-sagemaker-custom-algorithm/))
